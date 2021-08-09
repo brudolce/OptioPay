@@ -1,3 +1,1 @@
-hey
-
-https://clone-news-url.netlify.app
+https://optiopay-challenge.netlify.app/
